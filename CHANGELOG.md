@@ -79,3 +79,5 @@ Generated documentation for ARVO2025_Melinna.
 # PR Merge: 2025-10-15 - feature/merge-7338
 
 # PR Merge: 2025-10-15 - refactor/merge-3763
+
+# PR Update: 2025-10-15 - docs/update-7988
